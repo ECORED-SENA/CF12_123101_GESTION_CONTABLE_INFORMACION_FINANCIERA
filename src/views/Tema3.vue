@@ -53,10 +53,10 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1(style="color: #FD9826 !important") Norma Internacional
-              p.text-small.mb-0.text-white Para ampliar los lineamientos aplicables es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso
+              p.text-small.mb-0.text-white Para ampliar los lineamientos aplicables es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso.
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html" target="_blank")
                 span.text-black Ir al sitio web 
                 i.fas.fa-link.text-black
 

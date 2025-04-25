@@ -262,7 +262,7 @@
     p.mt-4 El Triángulo del servicio, propuesto en 1992 en el libro La excelencia en el servicio, representa gráficamente la filosofía de atención al cliente a través de tres componentes fundamentales: el cliente, la estrategia y el personal, apoyados por los sistemas de la organización.
 
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/wCN8MwqenJg?si=yGxzWF-399l5Z0gO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/OEjRfrQS9kA?si=q0VtlwaWoh0FOXa8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.align-items-center.mt-4.bg-t1-7.p-4
       .col-lg-1.d-none.d-lg-block 
