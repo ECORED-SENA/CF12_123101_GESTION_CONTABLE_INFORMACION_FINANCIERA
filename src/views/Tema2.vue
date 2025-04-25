@@ -462,7 +462,7 @@
         .row.p-4.bg-t1-15
           p Los clientes hacen parte del activo más importante de la empresa, pues es lo que les permite posicionarse en el mercado, contribuyendo notablemente en el crecimiento económico mediante la generación de ingresos, disminuye costos de marketing, debilita la competencia, aumenta la reputación y el buen nombre de la organización y, finalmente, contribuye al mejoramiento continuo de los procesos frente a los productos y/o servicios ofertados.
 
-          a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Cliente-o-usuario.pdf')" target="_blank")
             .anexo2__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
@@ -789,7 +789,7 @@
         .row.p-4.bg-intro1
           p De acuerdo con la Cámara de Comercio de Bogotá (2010), en el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad de forma positiva; según el trato ofrecido a los clientes externos se genera una percepción favorable.
 
-          a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Etiqueta-protocolo-empresarial.pdf')" target="_blank")
             .anexo2__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
