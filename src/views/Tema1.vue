@@ -76,10 +76,10 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1(style="color: #FD9826 !important") Norma ISO 9001/2015
-              p.text-small.mb-0.text-white Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso
+              p.text-small.mb-0.text-white Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso.
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="https://www.nueva-iso-9001-2015.com/" target="_blank")
                 span.text-black Ir al sitio web 
                 i.fas.fa-link.text-black
 
