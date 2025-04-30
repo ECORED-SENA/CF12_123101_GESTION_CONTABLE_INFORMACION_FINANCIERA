@@ -19,7 +19,7 @@
                 .p-2.w-100.align-items-center
                   p En la actualidad, en medio de tanta competitividad se hace necesario que las empresas tengan una cultura empresarial, y de servicio al cliente, donde se otorgue gran importancia a la satisfacción de las necesidades, expectativas y gustos de los diferentes usuarios.
 
-                  p Para lograr los objetivos propuestos es fundamental que los colaboradores que se relacionan directamente con los clientes externos, se encuentren comprometidos y capacitados para desempeñarse ante cualquier evento que se pueda presentar en ejercicio de las actividades propias de la empresa y su cargo.
+                  p Para lograr los objetivos propuestos, es fundamental que los colaboradores que se relacionan directamente con los clientes externos, se encuentren comprometidos y capacitados para desempeñarse ante cualquier evento que se pueda presentar en ejercicio de las actividades propias de la empresa y su cargo.
 
       p.mt-4 Aunado a ello, no se puede desconocer la importancia de atender las necesidades de los clientes internos; por ello, se requiere que la empresa, en cabeza de la administración y el departamento de talento humano, analicen y controlen las diferentes situaciones que se presentan a nivel interno y que, de una u otra manera, puedan afectar el desempeño dentro de la organización; cabe resaltar que para este proceso existen técnicas como la medición a través de indicadores de gestión, observación, encuestas, entre otras herramientas, que permiten el mejoramiento continuo de los procedimientos relacionados con los clientes internos y externos.
 
@@ -39,7 +39,7 @@
           .col-lg-10
             p Con el fin de obtener resultados que beneficien positivamente las actividades relacionadas con el servicio al cliente, es importante diseñar e implementar un manual de políticas que permita orientar a los clientes ante cualquier proceso en el cual se puedan ver involucrados.
 
-        p Su objetivo es servir de guía de acción referente al proceso del servicio al cliente; en la cual se debe especificar y detallar las actividades a realizar en diferentes escenarios; además de relacionar el objetivo, alcance, política, etc..; esto permitirá que los clientes internos y externos tengan claridad de los procedimientos establecidos para el manejo de garantías, cambios y devoluciones, proceso de distribución de productos o prestación de servicios, manejo en las peticiones, quejas y recursos, aplicación e interpretación de indicadores de gestión y comunicación antes, durante y después de la venta del bien o prestación del servicio.
+        p Su objetivo es servir de guía de acción referente al proceso del servicio al cliente, en la cual se debe especificar y detallar las actividades a realizar en diferentes escenarios; además de relacionar el objetivo, alcance, política, etc.; esto permitirá que los clientes internos y externos tengan claridad de los procedimientos establecidos para el manejo de garantías, cambios y devoluciones, proceso de distribución de productos o prestación de servicios, manejo en las peticiones, quejas y recursos, aplicación e interpretación de indicadores de gestión y comunicación antes, durante y después de la venta del bien o prestación del servicio.
 
     .row.mt-4.justify-content-center.align-items-center
       .col-lg-5
@@ -55,7 +55,7 @@
             .figure.d-none.d-lg-block
               img(src="@/assets/curso/tema1/img5.svg", alt="", style="width: 85px")
 
-            p.mt-4.mt-lg-0 En tal sentido es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que conlleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
+            p.mt-4.mt-lg-0 En tal sentido, es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que conlleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
 
     .row.mt-4
       .bloque-texto-g.bloque-texto-g--inverso.bg-t1-3.p-3.p-sm-4.p-md-5
@@ -63,10 +63,10 @@
           :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Dentro del marco normativo hacemos referencia a la norma ISO 9001:2015, la cual tiene como objetivo principal la eficiencia del sistema de gestión de calidad, donde se incorporan los requisitos y directrices a tener en cuenta para el adecuado servicio y por ende la mejora continua de la organización.
+          p.mb-0 Dentro del marco normativo hacemos referencia a la norma ISO 9001:2015, la cual tiene como objetivo principal la eficiencia del sistema de gestión de calidad, donde se incorporan los requisitos y directrices a tener en cuenta para el adecuado servicio y, por ende, la mejora continua de la organización.
             br
             br
-            | Es importante resaltar que estas normas son de carácter voluntario para las empresas, y quienes desean realizar el proceso de acreditación, obtengan una certificación que les ofrece mayor posicionamiento en el mercado, teniendo en cuenta que brinda seguridad y confianza a las partes interesadas.
+            | Es importante resaltar que estas normas son de carácter voluntario para las empresas, y quienes desean realizar el proceso de acreditación, obtienen una certificación que les ofrece mayor posicionamiento en el mercado, teniendo en cuenta que brinda seguridad y confianza a las partes interesadas.
 
     .tarjeta.bg-t1-4.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -85,7 +85,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2  Portafolio de productos: Características y tipos
+      h2 1.2  Portafolio de productos: características y tipos
 
     .row.justify-content-center.align-items-center
       .col-lg-5.d-none.d-lg-block
@@ -100,7 +100,7 @@
             figure
               img(src="@/assets/curso/tema1/img9.svg", alt="", style="width: 85px").m-auto
           .col-lg-10
-            .p El principal objetivo del portafolio es servir de herramienta de marketing, de esta manera la empresa se da a conocer y su vez presenta los productos y/o servicios, siendo un medio de publicidad que permite a la empresa incrementar su mercado objetivo.
+            .p El principal objetivo del portafolio es servir de herramienta de marketing, de esta manera la empresa se da a conocer y a su vez presenta los productos y/o servicios, siendo un medio de publicidad que permite a la empresa incrementar su mercado objetivo.
 
     .row.justify-content-center.mt-4
       .col-lg-12.mt-4
@@ -172,7 +172,7 @@
               h4
                 span.p-2.bg-t1-6.text-black Portafolios digitales
                  
-          p Son formatos que son presentados en diferentes herramientas ofimáticas, páginas web y que se pueden visualizar a través de computadores, tablets, celulares, etc… 
+          p Son formatos que son presentados en diferentes herramientas ofimáticas, páginas web y que se pueden visualizar a través de computadores, tablets, celulares, etc. 
 
     p Recordemos que la Organización Internacional de Normalización con Norma ISO 9001/2015, establece el numeral 8 “operación”, el cual incorpora la planificación y control operacional, además de los requisitos para los productos y servicios, teniendo en cuenta además su revisión, control y diseño. (ISO, 2015)
 

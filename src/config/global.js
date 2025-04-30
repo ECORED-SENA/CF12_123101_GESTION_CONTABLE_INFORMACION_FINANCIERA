@@ -163,7 +163,8 @@ export default {
       referencia:
         'Prieto, J. (2018). <em>Gerencia del servicio</em>. (4a. ed.). Ecoe Ediciones. ',
       tipo: 'Capítulo I, II, III',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=6320',
+      link:
+        'https://www.google.com.co/books/edition/Gerencia_del_servicio/N8K4DQAAQBAJ?hl=es-419&gbpv=1&pg=PA2&printsec=frontcover',
     },
     {
       tema: 'Política de Atención al Cliente - <em>Pymerang</em>',
@@ -171,7 +172,7 @@ export default {
         'Ugalde, R., A., (16 de septiembre de 2019) <em>Política de Atención al Cliente</em>. Pymerang.com',
       tipo: 'Página web',
       link:
-        'http://www.pymerang.com/direccion-de-negocios/1003-cuando-la-responsabilidad-social-mejora-el-servicio-al-cliente',
+        'https://pymerang.com/ventas-y-servicio/servicio-al-cliente/243-la-politica-de-atencion-al-cliente',
     },
     {
       tema: 'Métricas e indicadores para la gestión de servicios ITL',
@@ -224,15 +225,14 @@ export default {
     {
       termino: 'Servicio',
       significado:
-        'conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realiza contacto con la empresa hasta finalizar el ciclo del servicio.',
+        'conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realizan contacto con la empresa hasta finalizar el ciclo del servicio.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Abello, M. C., Abello, V., y Molina, H. (2016). <em>Atención al cliente</em>: Ciclo del servicio. [Gráfico].',
-      link:
-        'https://1.bp.blogspot.com/-4y0z4as4h-U/WAWYnuiQSUI/AAAAAAAAAJ0/biKAyFHT624wRCcbFQZsExtGqphyHFj7wCLcB/s1600/cooonc.png',
+        'Abello, M. C., Abello, V., y Molina, H. (2016). <em>Atención al cliente</em>: Ciclo del servicio.',
+      link: '',
     },
     {
       referencia:
@@ -247,8 +247,7 @@ export default {
     {
       referencia:
         'Alcázar P. (2020). <em>El cliente- relación empresa-cliente UT9.</em> ',
-      link:
-        'https://www.edebe.com/ciclosformativos/zona-publica/UT09_830030_LA_CEyAC_CAS.pdf',
+      link: '',
     },
     {
       referencia:
@@ -260,7 +259,7 @@ export default {
       referencia:
         'Congreso de la República. (18 de octubre de 2012). Ley 1581 de 2012. ',
       link:
-        'Shttp://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html',
     },
     {
       referencia:
@@ -276,7 +275,7 @@ export default {
     {
       referencia:
         'Martínez, M. (2013). <em>Manual básico de protocolo empresarial y social</em>. Díaz de Santos.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4043',
+      link: '',
     },
     {
       referencia:
@@ -292,8 +291,7 @@ export default {
     {
       referencia:
         'Pérez, O. (13 marzo de 2017). <em>5 reportes esenciales para mejorar el servicio a clientes</em>.',
-      link:
-        'https://blog.nextup.com.mx/5-reportes-esenciales-para-mejorar-el-servicio-a-clientes',
+      link: '',
     },
     {
       referencia: 'Pérez, P., y Merino, M. (2021). Definición de protocolo.',
@@ -306,18 +304,6 @@ export default {
         'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf',
     },
     {
-      referencia:
-        'Prieto, J. E. (2018). Esquema de un momento de verdad [Esquema]. <em>Gerencia del servicio: La clave para ganar todos.</em>',
-      link:
-        'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf',
-    },
-    {
-      referencia:
-        'Prieto, J. E. (2018). <em>Gerencia del servicio: la clave para ganar todos</em>. (4 ed.) [Libro electrónico]. ECOE Ediciones. ',
-      link:
-        'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf',
-    },
-    {
       referencia: 'Thompson, I. (2006). <em>Tipos de clientes</em>. ',
       link:
         'https://www.promonegocios.net/clientes/tipos-clientes.html#:%7E:text=%2D%20Clasificaci%C3%B3n%20Espec%C3%ADfica%3A&text=Clasificaci%C3%B3n%20de%20los%20Clientes%20Actuales,satisfacci%C3%B3n%20y%20grado%20de%20influencia.',
@@ -325,7 +311,7 @@ export default {
     {
       referencia:
         'Villanueva, R. (2017). <em>Comunicación y atención al cliente en hostelería y turismo</em>. IC Editorial.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8742',
+      link: '',
     },
     {
       referencia:

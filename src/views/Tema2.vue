@@ -15,7 +15,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Hablar de cultura de servicio al cliente implica actuar bajo principios y valores éticos, haciendo énfasis a la comunicación asertiva, relaciones interpersonales, respeto, responsabilidad, compromiso y honestidad con los clientes internos y externos, generando un excelente clima organizacional. Recordemos que los clientes satisfechos y felices contribuyen en el mejoramiento de la organización, permiten que cada vez seamos mejores en nuestras actividades, logrando posicionar a la empresa.
+          p.mb-0 Hablar de cultura de servicio al cliente implica actuar bajo principios y valores éticos, haciendo énfasis en la comunicación asertiva, relaciones interpersonales, respeto, responsabilidad, compromiso y honestidad con los clientes internos y externos, generando un excelente clima organizacional. Recordemos que los clientes satisfechos y felices contribuyen en el mejoramiento de la organización, permiten que cada vez seamos mejores en nuestras actividades, logrando posicionar a la empresa.
 
     p.mt-4 Con el fin de avanzar y generar un aprendizaje significativo, a continuación, se presenta la definición de servicio atendiendo a los siguientes autores:
 
@@ -46,7 +46,7 @@
         figure
           img(src="@/assets/curso/tema2/img2.svg", alt="", style="width: 73px").m-auto
       .col-lg-11
-        p Con base en los conceptos anteriores, podemos expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realiza contacto con la empresa hasta finalizar el ciclo del servicio. Recordemos que este se realiza de forma individual teniendo en cuenta las características del cliente, sus necesidades y expectativas; por lo anterior, se requiere realizar una bitácora informativa que permita conocer sus preferencias, comportamientos de compra, uso y consumo.
+        p Con base en los conceptos anteriores, podemos expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realizan contacto con la empresa hasta finalizar el ciclo del servicio. Recordemos que este se realiza de forma individual teniendo en cuenta las características del cliente, sus necesidades y expectativas; por lo anterior, se requiere realizar una bitácora informativa que permita conocer sus preferencias, comportamientos de compra, uso y consumo.
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-4 
@@ -87,14 +87,14 @@
           .col
             h3.mb-0 Ciclo del servicio
 
-    p.mt-4 Es una herramienta secuencial de pasos lógicos donde existen interacciones que muestran el inicio del proceso, puntos de contactos denominados momentos de la verdad y el final del ciclo. Su objetivo se enfoca al mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio.
+    p.mt-4 Es una herramienta secuencial de pasos lógicos donde existen interacciones que muestran el inicio del proceso, puntos de contacto denominados momentos de la verdad y el final del ciclo. Su objetivo se enfoca el mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio.
 
     .row.mt-4
       .col-lg-5.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema2/img4.png', alt='', style="width: 505px").m-auto
       .col-lg-7
-        p.p-4.bg-t1-9 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, donde se presentan una serie de actividades hasta llegar al final del proceso. Para su elaboración se relaciona un círculo y de forma secuencial se presentan cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de este.
+        p.p-4.bg-t1-9 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, donde se presentan una serie de actividades hasta llegar al final del proceso. Para su elaboración se relaciona un círculo y, de forma secuencial, se presentan cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de este.
 
         p Los ciclos de servicio permiten:
 
@@ -198,7 +198,7 @@
               h4
                 span.p-2.bg-t1-6.text-black Momentos dulces
                  
-          p.text-white es la percepción positiva del cliente, que logra satisfacer sus necesidades y expectativas, logrando su fidelización y permanencia con la organización
+          p.text-white Es la percepción positiva del cliente, que logra satisfacer sus necesidades y expectativas, logrando su fidelización y permanencia con la organización.
 
         .col-md.tarjeta.bg-t1-5.p-5
           .row.justify-content-center.mb-4.align-items-center
@@ -209,7 +209,7 @@
               h4
                 span.p-2.bg-t1-6.text-black Momentos amargos
                  
-          p hace referencia a la experiencia obtenida por el cliente, la cual no logra satisfacer sus necesidades y expectativas. 
+          p Hace referencia a la experiencia obtenida por el cliente, la cual no logra satisfacer sus necesidades y expectativas. 
 
 
     .row.mb-2.ms-0.mt-4
@@ -298,7 +298,7 @@
     
     .row.align-items-center.mt-4
       .col-lg-5
-        p.p-4.bg-t1-8 Las empresas en el desarrollo de sus actividades y en pro de mantener un excelente servicio deben generar el documento que incorpore el protocolo y procedimientos que deben implementar los colaboradores para generar momentos dulces o experiencias positivas. En términos generales estamos hablando de un manual que relaciona los procedimientos unificados, donde relacionan las actividades que se ejecutan en determinado suceso.
+        p.p-4.bg-t1-8 Las empresas, en el desarrollo de sus actividades y en pro de mantener un excelente servicio, deben generar el documento que incorpore el protocolo y los procedimientos que deben implementar los colaboradores para generar momentos dulces o experiencias positivas. En términos generales, estamos hablando de un manual que relaciona los procedimientos unificados, donde relacionan las actividades que se ejecutan en determinado suceso.
       .col-lg-3.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema2/img15.png', alt='', style="width: 295px").m-auto
@@ -331,7 +331,7 @@
                     .row.justify-content-center.mb-3
                       .col-8
                         img(src="@/assets/curso/tema2/img18.svg", alt='', style="width: 90px").m-auto
-                    p.text-small.text-center.mb-2 #[b Estandarizar proceso]
+                    p.text-small.text-center.mb-2 #[b Estandarizar procesos]
                     p.text-small.text-center.mb-0 Permite la unificación de los criterios aplicables.
 
                   .tarjeta.tarjeta--slyder.p-4
@@ -345,7 +345,7 @@
                     .row.justify-content-center.mb-3
                       .col-8
                         img(src="@/assets/curso/tema2/img20.svg", alt='', style="width: 90px").m-auto
-                    p.text-small.text-center.mb-2 #[b Sirve como guía en las capacitacion]
+                    p.text-small.text-center.mb-2 #[b Sirve como guía en las capacitaciones]
                     p.text-small.text-center.mb-0 Los colaboradores tienen conocimiento de las normas básicas y se motiva a realizar capacitaciones de mejoramiento continuo. 
 
                   .tarjeta.tarjeta--slyder.p-4
@@ -373,7 +373,7 @@
           .col
             h3.m-2 Objeto y campo de aplicación
 
-    p.mt-4 Esta Norma Internacional especifica los requisitos para un sistema de gestión de la calidad cuando una organización:
+    p.mt-4 Esta norma internacional especifica los requisitos para un sistema de gestión de la calidad cuando una organización:
 
     .row.align-items-center
       .col-lg-5.d-lg-block.d-none
@@ -475,7 +475,7 @@
             figure
               img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 64px')
           .col
-            h3.mb-0 Diferencia entre atención al cliente y servicio al cliente.
+            h3.mb-0 Diferencia entre atención al cliente y servicio al cliente
 
     p.mt-4 En diversas ocasiones se ha pensado que atención al cliente y servicio al cliente manejan el mismo concepto; sin embargo, este varía de acuerdo con el contexto en el cual se presente.
 
@@ -490,7 +490,7 @@
               h4
                 span.p-2.bg-t1-6.text-black Atención al cliente
                  
-          p.text-white Al hablar de atención al cliente es la interacción directa que existe entre el vendedor y el comprador, específicamente hace referencia al trato que recibe cuando muestra interés por nuestros productos o servicios
+          p.text-white Al hablar de atención al cliente, es la interacción directa que existe entre el vendedor y el comprador, específicamente, hace referencia al trato que recibe cuando muestra interés por nuestros productos o servicios.
 
         .col-md.tarjeta.bg-t1-5.p-5
           .row.justify-content-center.mb-4.align-items-center
@@ -501,7 +501,7 @@
               h4
                 span.p-2.bg-t1-6.text-black Servicio al cliente
                  
-          p El servicio al cliente hace énfasis a las acciones que se realizan una vez el comprador adquiere su producto o servicio y logra satisfacer sus necesidades completamente. Para que el servicio al cliente sea de calidad se requiere la combinación de atención y servicio al cliente; pues estamos hablando de amabilidad, cortesía y efectividad.
+          p El servicio al cliente hace énfasis en las acciones que se realizan una vez que el comprador adquiere su producto o servicio y logra satisfacer sus necesidades completamente. Para que el servicio al cliente sea de calidad, se requiere la combinación de atención y servicio al cliente; pues estamos hablando de amabilidad, cortesía y efectividad.
 
     .row.mb-2.ms-0.mt-4
       .col-auto.bg-c3(data-aos="fade-left")
@@ -512,7 +512,7 @@
           .col
             h3.mb-0 Tipología de los clientes
 
-    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de marketing debes ser innovadoras, creativa, la actitud y disposición del cliente interno (colaboradores) deber ser basada en principios y valores éticos. Los clientes se clasifican en:
+    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de marketing deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) debe ser basada en principios y valores éticos. Los clientes se clasifican en:
 
     .row.bg-t1-16.mt-4
       .col-12
@@ -533,7 +533,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Clientes inactivos:] son aquellos que en algún momento adquirieron el producto y/o servicio, no continúan activos, lo que indica que hay insatisfacción, no se logró fidelizarlos y/o finalmente no necesitan el producto o servicio.
+                        p.mb-0 #[b Clientes inactivos:] son aquellos que en algún momento adquirieron el producto y/o servicio, pero no continúan activos, lo que indica que hay insatisfacción, no se logró fidelizarlos y/o finalmente no necesitan el producto o servicio.
 
                   .col-md-5
                     figure
@@ -551,7 +551,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Ocasional:] Son aquellos que adquieren el producto o servicio de forma esporádica.
+                        p.mb-0 #[b Ocasional:] son aquellos que adquieren el producto o servicio de forma esporádica.
                   .col-md-5
                     figure
                       img(src='@/assets/curso/tema2/img28.png')
@@ -563,7 +563,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Alto:] Son los clientes que realizan compras en grandes volúmenes y representan el mayor ingreso para la empresa. 
+                        p.mb-0 #[b Alto:] son los clientes que realizan compras en grandes volúmenes y representan el mayor ingreso para la empresa. 
 
                       li.d-flex
                         i.fa-solid.fa-greater-than
@@ -573,7 +573,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Bajo:] Son los compradores que adquieren el producto ocasionalmente.
+                        p.mb-0 #[b Bajo:] son los compradores que adquieren el producto ocasionalmente.
                   .col-md-5
                     figure
                       img(src='@/assets/curso/tema2/img29.png')
@@ -608,7 +608,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Altamente Influyentes:] es el grado de convencimiento que ejerce algunos clientes en un individuo o grupo de personas, lo que hace que adquieran el producto y/o servicio. 
+                        p.mb-0 #[b Altamente influyentes:] es el grado de convencimiento que ejerce algunos clientes en un individuo o grupo de personas, lo que hace que adquieran el producto y/o servicio. 
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
@@ -809,7 +809,7 @@
           .col
             h3.mb-0 Imagen corporativa
 
-    p.mt-4 La imagen corporativa la otorgan los colaboradores; por ello, es importante seguir los lineamientos establecidos con el fin de que la empresa pueda proyectar la imagen positiva de acuerdo con los objetivos propuestos, conforme lo anterior, se debe tener en cuenta:
+    p.mt-4 La imagen corporativa la otorgan los colaboradores; por ello, es importante seguir los lineamientos establecidos con el fin de que la empresa pueda proyectar la imagen positiva de acuerdo con los objetivos propuestos. Conforme a lo anterior, se debe tener en cuenta:
 
     .row.bg-t1-17.mt-lg-4.justify-content-center
       .col-12
@@ -830,7 +830,7 @@
                   img(src="@/assets/curso/tema2/img38.svg", alt="", style="width: 85px").d-block.ms-auto
               .col-lg-10
                 p.mb-0 #[b El cabello y manos]
-                p Es importante tener un cabello y uñas organizadas y pulcras, además de analizar lo que le favorece de acuerdo con las características del individuo y las políticas de la empresa.
+                p Es importante tener el cabello y las uñas organizadas y pulcras, además de analizar lo que le favorece de acuerdo con las características del individuo y las políticas de la empresa.
                 hr.hr-t2
 
             .row
@@ -839,7 +839,7 @@
                   img(src="@/assets/curso/tema2/img39.svg", alt="", style="width: 85px").d-block.ms-auto
               .col-lg-10
                 p.mb-0 #[b Sonrisa]
-                p Esta refleja amabilidad, actitud positiva y disposición. De igual forma, se debe tener en cuenta la higiene oral
+                p Esta refleja amabilidad, actitud positiva y disposición. De igual forma, se debe tener en cuenta la higiene oral.
                 hr.hr-t2
 
             .row
@@ -893,7 +893,7 @@
                   img(src="@/assets/curso/tema2/img45.svg", alt="", style="width: 85px").d-block.ms-auto
               .col-lg-10
                 p.mb-0 #[b Ser educado y cortés]
-                p Los principios y valores definen a una persona y por ende a la empresa que representa (Cámara de comercio de Bogotá, 2010).
+                p Los principios y valores definen a una persona y, por ende, a la empresa que representa (Cámara de Comercio de Bogotá, 2010).
                 hr.hr-t2
 
     .row.mb-2.ms-0.mt-4
@@ -905,7 +905,7 @@
           .col
             h3.mb-0 Imagen corporativa
 
-    p.mt-4 Las normas de cortesía permiten generar lazos de seguridad y confianza para mantener excelentes relaciones interpersonales. De acuerdo con ello es importante:
+    p.mt-4 Las normas de cortesía permiten generar lazos de seguridad y confianza para mantener excelentes relaciones interpersonales. De acuerdo con ello, es importante:
 
     .row.align-items-center.mt-4
       .col-lg-5.d-lg-block.d-none
@@ -989,7 +989,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 15
-                | Sonreír
+                | Sonreír.
 
 
 

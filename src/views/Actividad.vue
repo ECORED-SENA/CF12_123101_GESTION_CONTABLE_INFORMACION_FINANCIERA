@@ -21,7 +21,7 @@ export default {
         'Fundamentos del servicio al cliente y su aplicación en entornos empresariales',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar los conocimientos clave sobre políticas, normas, técnicas y procedimientos relacionados con el servicio al cliente en el contexto empresarial, según la normativa vigente y las buenas prácticas organizacionales.',
+        '<b> Objetivo:</b> evaluar los conocimientos clave sobre políticas, normas, técnicas y procedimientos relacionados con el servicio al cliente en el contexto empresarial, según la normativa vigente y las buenas prácticas organizacionales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -124,7 +124,7 @@ export default {
         {
           id: 4,
           texto:
-            'En el triángulo del servicio, ¿qué representa “la estrategia”?',
+            '¿En el triángulo del servicio, ¿qué representa “la estrategia”?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -384,7 +384,7 @@ export default {
         {
           id: 13,
           texto:
-            'El servicio al cliente inicia desde el primer contacto del cliente con la empresa.',
+            'Los clientes altamente influyentes pueden incidir en la decisión de compra de otros.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -412,12 +412,12 @@ export default {
             {
               id: 'a',
               texto: 'Falso.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Verdadero.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -432,13 +432,13 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
-              esCorrecta: true,
+              texto: 'Falso.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso.',
-              esCorrecta: false,
+              texto: 'Verdadero.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

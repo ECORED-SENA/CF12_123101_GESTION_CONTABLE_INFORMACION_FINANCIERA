@@ -30,7 +30,7 @@
                 img(src='@/assets/curso/tema3/img2.svg', style="width: 85px")
             .col-lg-10.mt-4
               h4
-                span.p-2.bg-t1-6.text-black Artículo 1°. Objeto.
+                span.p-2.bg-t1-6.text-black Artículo 1°. Objeto
                  
           p.text-white  La presente ley tiene por objeto desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma. (Congreso de la República, 2012).
 
@@ -41,7 +41,7 @@
                 img(src='@/assets/curso/tema3/img3.svg', style="width: 85px")
             .col-lg-10.mt-4
               h4
-                span.p-2.bg-t1-6.text-black Artículo 2°. Ámbito de aplicación.
+                span.p-2.bg-t1-6.text-black Artículo 2°. Ámbito de aplicación
                  
           p Los principios y disposiciones contenidas en la presente ley serán aplicables a los datos personales registrados en cualquier base de datos que los haga susceptibles de tratamiento por entidades de naturaleza pública o privada. La presente ley aplicará al tratamiento de datos personales efectuado en territorio colombiano o cuando al responsable del tratamiento o encargado del tratamiento no establecido en territorio nacional le sea aplicable la legislación colombiana en virtud de normas y tratados internacionales. (Congreso de la República, 2012).
 
@@ -52,8 +52,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1(style="color: #FD9826 !important") Norma Internacional
-              p.text-small.mb-0.text-white Para ampliar los lineamientos aplicables es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso.
+              h4.mb-1(style="color: #FD9826 !important") Norma internacional
+              p.text-small.mb-0.text-white Para ampliar los lineamientos aplicables, es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso.
     
             .col-sm-auto
               a.boton.color-acento-botones(href="http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html" target="_blank")
@@ -85,7 +85,7 @@
         figure
           img(src='@/assets/curso/tema3/img5.png', alt='', style="width: 190px").m-auto
 
-    p.mt-4 Actualmente existe la Ley de Protección de Datos, que tiene como objetivo proteger el derecho de las personas a conocer, actualizar y rectificar su información; por lo tanto, es importante que las empresas conozcan y apliquen las directrices dadas en estas sobre el tratamiento de la información de los clientes. Cabe resaltar que el incumplimiento de la Ley acarrea sanciones, multas y cierre temporal o definitivo de las operaciones.
+    p.mt-4 Actualmente existe la Ley de Protección de Datos, que tiene como objetivo proteger el derecho de las personas a conocer, actualizar y rectificar su información; por lo tanto, es importante que las empresas conozcan y apliquen las directrices dadas en estas sobre el tratamiento de la información de los clientes. Cabe resaltar que el incumplimiento de la ley acarrea sanciones, multas y cierre temporal o definitivo de las operaciones.
 
     .row.align-items-center
       .col-lg-6.d-lg-block.d-none
@@ -127,7 +127,7 @@
 
     .row.align-items-center
       .col-lg-7
-        p.p-4.bg-t1-9 En el desarrollo de las actividades empresariales y en atención del objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que expresen las directrices que se deben de tener en cuenta en un proceso determinado.
+        p.p-4.bg-t1-9 En el desarrollo de las actividades empresariales y en atención al objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que exprese las directrices que se deben de tener en cuenta en un proceso determinado.
 
         p Dentro de las solicitudes de los clientes encontramos:
 
@@ -237,7 +237,7 @@
 
           p(numero="3" titulo="Tiempo de respuesta") Deben implementarse indicadores que permitan monitorear la gestión de los casos por parte de los colaboradores; por ello, se requiere que se establezca un tiempo prudente para la atención de estos, cabe resaltar que se deben tener en cuenta el tipo de caso, sus características y el tiempo promedio de respuesta.
 
-          p(numero="4" titulo="Calificaciones o puntajes de tus colaboradores") En las calificaciones de los colaboradores es importante analizar la percepción que tienen los clientes, esta información contribuye en el diseño de acciones correctivas, además que permite fortalecer las competencias y habilidades; por ello, es importante implementar encuestas de satisfacción que permitan identificar las debilidades y fortalezas de cada uno.
+          p(numero="4" titulo="Calificaciones o puntajes de tus colaboradores") En las calificaciones de los colaboradores es importante analizar la percepción que tienen los clientes, esta información contribuye en el diseño de acciones correctivas, además permite fortalecer las competencias y habilidades; por ello, es importante implementar encuestas de satisfacción que permitan identificar las debilidades y fortalezas de cada uno.
 
           p(numero="5" titulo="Cantidad de casos recibidos") Se debe analizar el número de reportes que se generan en un tiempo determinado, puede ser quincenal o mensual de acuerdo con la política establecida por la organización; esto permite identificar las solicitudes atendidas por los clientes internos y el cumplimiento de acuerdo con el tiempo acordado (Pérez, 2017).
 
@@ -306,10 +306,10 @@
             li.d-flex
               i.fa-solid.fa-greater-than
               |
-              p.mb-0 Manejar un tiempo prudente para solución de casos y atender el cliente.
+              p.mb-0 Manejar un tiempo prudente para solución de casos y atender al cliente.
 
 
-    p.mt-4 Para atender oportunamente las solicitudes, peticiones y requerimientos de los clientes es fundamental otorgar respuesta en el menor tiempo posible con el fin de lograr la satisfacción y fidelización de este. Por ello, existen técnicas de optimización de tiempo, entre las cuales figuran:
+    p.mt-4 Para atender oportunamente las solicitudes, peticiones y requerimientos de los clientes, es fundamental otorgar respuesta en el menor tiempo posible con el fin de lograr la satisfacción y fidelización de este. Por ello, existen técnicas de optimización de tiempo, entre las cuales figuran:
 
     .row.bg-t1-18.mt-4.align-items-center
       .col-12
@@ -323,7 +323,7 @@
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
                     p.mb-0 #[b Investigación de prospectos: ]
-                    p Para ello se debe conocer el cliente, su comportamiento y características con el fin de determinar el tiempo justo de respuesta, lo que conducirá a fidelizar y aumentar clientes.
+                    p Para ello se debe conocer al cliente, su comportamiento y características con el fin de determinar el tiempo justo de respuesta, lo que conducirá a fidelizar y aumentar clientes.
                 hr.hr-t2.mt-auto
 
             .col-lg-6.d-flex.flex-column.px-lg-5
@@ -380,7 +380,7 @@
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
                     p.mb-0 #[b Seguimiento y control:]
-                    p Todo proceso se debe monitorear con el fin de generar acciones correctivas que contribuyan al mejoramiento continuo de la organización. Simplemente lo que no se mide y controla, no funciona adecuadamente (WTS, 2019).
+                    p Todo proceso se debe monitorear con el fin de generar acciones correctivas que contribuyan al mejoramiento continuo de la organización. Simplemente, lo que no se mide y controla, no funciona adecuadamente (WTS, 2019).
                 hr.hr-t2.mt-auto
 
 
