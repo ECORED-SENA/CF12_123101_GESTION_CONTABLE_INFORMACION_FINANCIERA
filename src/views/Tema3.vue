@@ -5,10 +5,10 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Operación del servicio
+      h1(data-aos="zoom-in") Operación del servicio
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
+      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.png')})`}"
         )
@@ -17,7 +17,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1  Normas para el manejo de la información
+      h2(data-aos="zoom-in") 3.1  Normas para el manejo de la información
 
     p Dentro del marco normativo para la protección de datos está la Ley 1581 de 2012, la cual expresa:
 
@@ -62,7 +62,7 @@
 
     p.mt-4 De igual forma, el Decreto 1377 de 2013, establece directrices para el tratamiento y protección de datos, la cual reglamenta parcialmente la Ley 1581 de 2012, que dice:
 
-    .row.bg-t1-14.p-4.mt-4
+    .row.bg-t1-14.p-4.mt-4(data-aos="fade-left")
       p Que mediante la Ley 1581 de 2012 se expidió el Régimen General de Protección de Datos Personales, el cual, de conformidad con su artículo 1, tiene por objeto “( … ) desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales a que se refiere el artículo 15 de la Constitución Política; así como el derecho a la información consagrado en el artículo 20 de la misma” (Ministerio de Comercio, Industria y Turismo, 2013).
 
       p Que la Ley 1581 de 2012 constituye el marco general de la protección de los datos personales en Colombia (Ministerio de Comercio, Industria y Turismo, 2013).
@@ -70,7 +70,7 @@
       p Que mediante sentencia C-748 del 6 de octubre de 2011 la Corte Constitucional declaró exequible el Proyecto de Ley Estatutaria No. 184 de 2010 Senado, 046 de 2010 Cámara (Ministerio de Comercio, Industria y Turismo, 2013).
 
       p Que con el fin de facilitar la implementación y cumplimiento de la Ley 1581 de 2012 se deben reglamentar aspectos relacionados con la autorización del Titular de información para el Tratamiento de sus datos personales, las políticas de Tratamiento de los Responsables y Encargados, el ejercicio de los derechos de los Titulares de información, las transferencias de datos personales y la responsabilidad demostrada frente al Tratamiento de datos personales, este último tema referido a la rendición de cuentas.
-    .row.p-4.bg-t1-15
+    .row.p-4.bg-t1-15(data-aos="fade-right")
       .col-lg-8
         p En virtud de lo expuesto:
         p.mb-0 #[b DECRETA]
@@ -82,7 +82,7 @@
             |
             p.mb-0 #[b Artículo 1. Objeto.] El presente Decreto tiene como objeto reglamentar parcialmente la Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales (Ministerio de Comercio, Industria y Turismo, 2013).
       .col-lg-4.d-lg-block.d-none
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img5.png', alt='', style="width: 190px").m-auto
 
     p.mt-4 Actualmente existe la Ley de Protección de Datos, que tiene como objetivo proteger el derecho de las personas a conocer, actualizar y rectificar su información; por lo tanto, es importante que las empresas conozcan y apliquen las directrices dadas en estas sobre el tratamiento de la información de los clientes. Cabe resaltar que el incumplimiento de la ley acarrea sanciones, multas y cierre temporal o definitivo de las operaciones.
@@ -123,11 +123,11 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2  Solicitudes – tipos
+      h2(data-aos="zoom-in") 3.2  Solicitudes – tipos
 
     .row.align-items-center
       .col-lg-7
-        p.p-4.bg-t1-9 En el desarrollo de las actividades empresariales y en atención al objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que exprese las directrices que se deben de tener en cuenta en un proceso determinado.
+        p.p-4.bg-t1-9(data-aos="fade-right") En el desarrollo de las actividades empresariales y en atención al objeto social, se presentan diversas solicitudes de los clientes; por ello, es importante que se encuentre diseñado el manual de políticas, que exprese las directrices que se deben de tener en cuenta en un proceso determinado.
 
         p Dentro de las solicitudes de los clientes encontramos:
 
@@ -177,14 +177,14 @@
                 p.mb-0 Devoluciones.
 
       .col-lg-5.d-lg-block.d-none
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema3/img7.png', alt='', style="width: 610px").m-auto
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 Planes de contingencia
+      h2(data-aos="zoom-in") 3.3 Planes de contingencia
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-up")
       .col-lg-10.mt-4
         .row.justify-content-center
           .col-lg-12(data-aos="fade-down")
@@ -197,12 +197,12 @@
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido
-      h2 3.4 Reportes de fallas
+      h2(data-aos="zoom-in") 3.4 Reportes de fallas
 
     .row.align-items-center
       .col-lg-9
         p Para ofrecer un excelente servicio al cliente, atendiendo las necesidades y expectativas en pro de superarlas, se requiere diseñar un plan que relacione la identificación de las fallas y las estrategias pertinentes para cada una, con el fin de mejorar continuamente los procesos y lograr los objetivos propuestos.
-        .row.justify-content-center
+        .row.justify-content-center(data-aos="zoom-in")
           .col-lg-12.mt-4
             .row.justify-content-center
               .col-lg-12(data-aos="fade-down")
@@ -242,12 +242,12 @@
           p(numero="5" titulo="Cantidad de casos recibidos") Se debe analizar el número de reportes que se generan en un tiempo determinado, puede ser quincenal o mensual de acuerdo con la política establecida por la organización; esto permite identificar las solicitudes atendidas por los clientes internos y el cumplimiento de acuerdo con el tiempo acordado (Pérez, 2017).
 
       .col-8.col-lg-4.mt-lg-0.mt-4
-        figure
+        figure(data-aos="fade-left")
           img(src="@/assets/curso/tema3/img11.png", alt="alt")
 
     separador
     #t_3_5.titulo-segundo.color-acento-contenido
-      h2 3.5 Respuesta: definición, técnicas, tiempo
+      h2(data-aos="zoom-in") 3.5 Respuesta: definición, técnicas, tiempo
 
     p Dentro de las solicitudes de los clientes encontramos:
 

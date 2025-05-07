@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Políticas: normas y procedimientos del servicio
+      h1(data-aos="zoom-in") Políticas: normas y procedimientos del servicio
 
     .row.justify-content-center
       .col-lg-12.mt-4
@@ -21,25 +21,25 @@
 
                   p Para lograr los objetivos propuestos, es fundamental que los colaboradores que se relacionan directamente con los clientes externos, se encuentren comprometidos y capacitados para desempeñarse ante cualquier evento que se pueda presentar en ejercicio de las actividades propias de la empresa y su cargo.
 
-      p.mt-4 Aunado a ello, no se puede desconocer la importancia de atender las necesidades de los clientes internos; por ello, se requiere que la empresa, en cabeza de la administración y el departamento de talento humano, analicen y controlen las diferentes situaciones que se presentan a nivel interno y que, de una u otra manera, puedan afectar el desempeño dentro de la organización; cabe resaltar que para este proceso existen técnicas como la medición a través de indicadores de gestión, observación, encuestas, entre otras herramientas, que permiten el mejoramiento continuo de los procedimientos relacionados con los clientes internos y externos.
+      p.mt-4(data-aos="fade-up") Aunado a ello, no se puede desconocer la importancia de atender las necesidades de los clientes internos; por ello, se requiere que la empresa, en cabeza de la administración y el departamento de talento humano, analicen y controlen las diferentes situaciones que se presentan a nivel interno y que, de una u otra manera, puedan afectar el desempeño dentro de la organización; cabe resaltar que para este proceso existen técnicas como la medición a través de indicadores de gestión, observación, encuestas, entre otras herramientas, que permiten el mejoramiento continuo de los procedimientos relacionados con los clientes internos y externos.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1  Normatividad vigente aplicada al sector
+      h2(data-aos="zoom-in") 1.1  Normatividad vigente aplicada al sector
 
     .row.justify-content-center.align-items-center
       .col-lg-5.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-down")
           img(src='@/assets/curso/tema1/img2.png', alt='', style="width: 500px").m-auto
       .col-lg-7
         .row.align-items-center
           .col-lg-2.d-lg-block.d-none
-            figure
+            figure(data-aos="zoom-in")
               img(src="@/assets/curso/tema1/img3.png", alt="", style="width: 85px").m-auto
           .col-lg-10
             p Con el fin de obtener resultados que beneficien positivamente las actividades relacionadas con el servicio al cliente, es importante diseñar e implementar un manual de políticas que permita orientar a los clientes ante cualquier proceso en el cual se puedan ver involucrados.
 
-        p Su objetivo es servir de guía de acción referente al proceso del servicio al cliente, en la cual se debe especificar y detallar las actividades a realizar en diferentes escenarios; además de relacionar el objetivo, alcance, política, etc.; esto permitirá que los clientes internos y externos tengan claridad de los procedimientos establecidos para el manejo de garantías, cambios y devoluciones, proceso de distribución de productos o prestación de servicios, manejo en las peticiones, quejas y recursos, aplicación e interpretación de indicadores de gestión y comunicación antes, durante y después de la venta del bien o prestación del servicio.
+        p(data-aos="zoom-in") Su objetivo es servir de guía de acción referente al proceso del servicio al cliente, en la cual se debe especificar y detallar las actividades a realizar en diferentes escenarios; además de relacionar el objetivo, alcance, política, etc.; esto permitirá que los clientes internos y externos tengan claridad de los procedimientos establecidos para el manejo de garantías, cambios y devoluciones, proceso de distribución de productos o prestación de servicios, manejo en las peticiones, quejas y recursos, aplicación e interpretación de indicadores de gestión y comunicación antes, durante y después de la venta del bien o prestación del servicio.
 
     .row.mt-4.justify-content-center.align-items-center
       .col-lg-5
@@ -48,7 +48,7 @@
       .col-lg-7
         .row.align-items-center.justify-content-center
           .col-lg-5.d-none.d-lg-block
-            .figure
+            figure(data-aos="fade-down")
               img(src='@/assets/curso/tema1/img4.png', alt='', style="width: 295px").m-auto
 
           .col-lg-7
@@ -58,7 +58,7 @@
             p.mt-4.mt-lg-0 En tal sentido, es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que conlleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.bg-t1-3.p-3.p-sm-4.p-md-5
+      .bloque-texto-g.bloque-texto-g--inverso.bg-t1-3.p-3.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema1/img6.png')})`}"
         )
@@ -85,7 +85,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2  Portafolio de productos: características y tipos
+      h2(data-aos="zoom-in") 1.2  Portafolio de productos: características y tipos
 
     .row.justify-content-center.align-items-center
       .col-lg-5.d-none.d-lg-block

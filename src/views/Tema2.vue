@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Servicio: definición, ciclo, triángulo, momentos de verdad, protocolo, procedimiento, normas técnicas, canales
+      h1(data-aos="zoom-in") Servicio: definición, ciclo, triángulo, momentos de verdad, protocolo, procedimiento, normas técnicas, canales
 
     p En el ámbito empresarial toma gran importancia el servicio al cliente interno y externo; por lo tanto, es indispensable que se generen espacios de confianza y credibilidad; por ello, las empresas aplican normas y prácticas que permiten incrementar la cultura de servicio al cliente, que busca mantener relaciones sólidas, estables y amables con los diferentes usuarios, logrando fidelizar los clientes mediante las experiencias positivas que hayan obtenido en la empresa.
 
     .row.mt-4
-      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-sm-4.p-md-5
+      .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-sm-4.p-md-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.png')})`}"
         )
@@ -21,20 +21,20 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-4 
-        .bloque-texto-c.p-4.higth-recuadros
+        .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
           p.mb-2.mt-5 #[b Es toda acción que usted hace para motivar a un cliente]
           br
           p - Prieto, 2018.
 
       .col-lg-4.mt-lg-0.mt-4
-        .bloque-texto-c.p-4.higth-recuadros
+        .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
           p.mb-2.mt-4 #[b El servicio es un intangible que solo se conoce en su real valor cuando se utiliza. Es el conjunto de prestaciones que el cliente espera recibir, por el que paga y en relación con el precio, la imagen y la representación de la firma que lo presta]
           span - Gustavo Posada Moreno, Prieto, 2018.
 
       .col-lg-4.mt-lg-0.mt-4
-        .bloque-texto-c.p-4.higth-recuadros
+        .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
           p.mb-2.mt-4 #[b El servicio es la forma de satisfacer permanente y totalmente las necesidades, deseos, apetencias e inquietudes de un cliente]
           br
@@ -125,7 +125,7 @@
           h5 Figura 1.
           span Ciclo del servicio
 
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img5.svg', alt='Diagrama en cuatro pasos del proceso de atención al cliente: 1- Atender al cliente con amabilidad, 2- Aclarar la situación respondiendo sus dudas, 3- Satisfacer o exceder sus necesidades cumpliendo expectativas, y 4- Verificar la satisfacción final del cliente respecto al producto o servicio.', style="width: 1030px").m-auto 
 
     p.mt-4 A continuación, se presenta, como ejemplo, el ciclo del servicio de un restaurante.
@@ -136,7 +136,7 @@
           h5 Figura 2.
           span Ciclo del servicio
 
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img6.svg', alt='Diagrama circular sobre el ciclo del servicio en atención al cliente que incluye doce etapas: facilidad de estacionamiento, aspecto del establecimiento, recepción, asignación de mesa, atención y espera por la carta, toma de la orden, espera por el servicio, calidad del servicio, atención durante el servicio, espera por la cuenta, pago de la cuenta y despedida.', style="width: 1030px").m-auto 
 
     .row.mb-2.ms-0.mt-4
@@ -173,7 +173,7 @@
                 h5 Figura 3.
                 span Esquema de un momento de verdad
 
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img9.svg', alt='Esquema sobre el momento de verdad en la atención al cliente que representa un proceso donde las entradas (deseos, dinero, necesidades, pasiones) se transforman en salidas (satisfacción, amistad, aceptación, desilusión), influenciado por la interacción entre el cliente y el servicio', style="width: 1030px").m-auto 
               
                 figcaption.mt-4 Nota. Tomada de Prieto (2018)
@@ -244,7 +244,7 @@
                 h5 Figura 3.
                 span Esquema de un momento de verdad
 
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img12.png', alt='Diagrama cíclico sobre las etapas de la experiencia del cliente que incluye momento inicial, momento de verdad, momento final y momento crítico, conectados mediante flechas que indican un flujo continuo.', style="width: 818px").m-auto 
               
                 figcaption.mt-4 Nota. Tomada de Prieto (2018)
@@ -277,10 +277,10 @@
           .row.justify-content-center
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 3.
+                h5 Figura 4.
                 span Esquema de un momento de verdad
 
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img14.svg', alt='Diagrama del triángulo del servicio compuesto por cuatro elementos: estrategia, sistemas, personas y cliente, ubicados en forma triangular con el cliente al centro.', style="width: 818px").m-auto 
               
                 figcaption.mt-4 Nota. Tomada de Prieto (2018)
@@ -451,7 +451,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1  Cliente o usuario: definición, clasificación, tipología, características de población vulnerable
+      h2(data-aos="zoom-in") 2.1  Cliente o usuario: definición, clasificación, tipología, características de población vulnerable
 
     .row.align-items-center.justify-content-center
       .col-lg-5.d-lg-block.d-none
@@ -480,7 +480,7 @@
     p.mt-4 En diversas ocasiones se ha pensado que atención al cliente y servicio al cliente manejan el mismo concepto; sin embargo, este varía de acuerdo con el contexto en el cual se presente.
 
     .row.mt-4
-      .tarjeta--container.row.mb-5
+      .tarjeta--container.row.mb-5(data-aos="zoom-in")
         .col-md.tarjeta.bg-t1-4.p-5
           .row.justify-content-center.mb-4.align-items-center
             .col-lg-2
@@ -650,7 +650,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2  Comunicación: definición, técnicas, tipos, expresión oral y escrita
+      h2(data-aos="zoom-in") 2.2  Comunicación: definición, técnicas, tipos, expresión oral y escrita
 
     .row.justify-content-center
       .col-lg-12.mt-4
@@ -730,7 +730,7 @@
                 p.mb-0 Ser empático y amable (Fórmate, 2017).
 
       .col-lg-4.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img34.png', alt='', style="width: 505px").m-auto
 
     .row.mb-2.ms-0.mt-4
@@ -748,7 +748,7 @@
       .py-3.py-md-4(titulo="Comunicación verbal")
         .row.align-items-center.p-4
           .col-md-6
-            figure
+            figure(data-aos="fade-left")
               img(src='@/assets/curso/tema2/img35.png', style="width: 505px").m-auto
 
           .col-md-6.mb-4.mb-md-0
@@ -771,7 +771,7 @@
       .py-3.py-md-4(titulo="Comunicación no verbal")
         .row
           .col-md-6.mb-4.mb-md-0
-            figure
+            figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/img36.png', style="width: 505px").m-auto
 
           .col-md-6
@@ -781,7 +781,7 @@
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3  Etiqueta y protocolo empresarial
+      h2(data-aos="zoom-in") 2.3  Etiqueta y protocolo empresarial
 
     .row.align-items-center.justify-content-center
 
@@ -796,7 +796,7 @@
               p.mb-0(style="color: #006DF0 !important") #[b Anexo.] Etiqueta y protocolo empresarial
 
       .col-lg-4.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img24.png', alt='', style="width: 505px").m-auto
 
 
@@ -909,7 +909,7 @@
 
     .row.align-items-center.mt-4
       .col-lg-5.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img46.png', alt='', style="width: 500px").m-auto
 
       .col-lg-7
