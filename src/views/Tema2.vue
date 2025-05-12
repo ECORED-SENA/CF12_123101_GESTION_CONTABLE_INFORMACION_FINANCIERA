@@ -87,7 +87,7 @@
           .col
             h3.mb-0 Ciclo del servicio
 
-    p.mt-4 Es una herramienta secuencial de pasos lógicos donde existen interacciones que muestran el inicio del proceso, puntos de contacto denominados momentos de la verdad y el final del ciclo. Su objetivo se enfoca el mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio.
+    p.mt-4 Es una herramienta secuencial de pasos lógicos donde existen interacciones que muestran el inicio del proceso, puntos de contacto denominados momentos de la verdad y el final del ciclo. Su objetivo se enfoca en el mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio.
 
     .row.mt-4
       .col-lg-5.d-lg-block.d-none
