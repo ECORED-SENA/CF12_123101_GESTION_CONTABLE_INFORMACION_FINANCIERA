@@ -100,7 +100,7 @@
             figure
               img(src="@/assets/curso/tema1/img9.svg", alt="", style="width: 85px").m-auto
           .col-lg-10
-            .p El principal objetivo del portafolio es servir de herramienta de marketing, de esta manera la empresa se da a conocer y a su vez presenta los productos y/o servicios, siendo un medio de publicidad que permite a la empresa incrementar su mercado objetivo.
+            .p El principal objetivo del portafolio es servir de herramienta de #[i marketing], de esta manera la empresa se da a conocer y a su vez presenta los productos y/o servicios, siendo un medio de publicidad que permite a la empresa incrementar su mercado objetivo.
 
     .row.justify-content-center.mt-4
       .col-lg-12.mt-4

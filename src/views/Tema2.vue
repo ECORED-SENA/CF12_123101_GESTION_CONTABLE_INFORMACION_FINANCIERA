@@ -134,7 +134,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 2.
-          span Ciclo del servicio
+          span Atención al cliente: ciclo del servicio
 
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img6.svg', alt='Diagrama circular sobre el ciclo del servicio en atención al cliente que incluye doce etapas: facilidad de estacionamiento, aspecto del establecimiento, recepción, asignación de mesa, atención y espera por la carta, toma de la orden, espera por el servicio, calidad del servicio, atención durante el servicio, espera por la cuenta, pago de la cuenta y despedida.', style="width: 1030px").m-auto 
@@ -241,8 +241,8 @@
           .row.justify-content-center
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 3.
-                span Esquema de un momento de verdad
+                h5 Figura 4.
+                span Ciclo de los momentos de verdad
 
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img12.png', alt='Diagrama cíclico sobre las etapas de la experiencia del cliente que incluye momento inicial, momento de verdad, momento final y momento crítico, conectados mediante flechas que indican un flujo continuo.', style="width: 818px").m-auto 
@@ -257,9 +257,9 @@
             figure
               img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 64px')
           .col
-            h3.mb-0 Triangulo del servicio
+            h3.mb-0 Triángulo del servicio
 
-    p.mt-4 El Triángulo del servicio, propuesto en 1992 en el libro La excelencia en el servicio, representa gráficamente la filosofía de atención al cliente a través de tres componentes fundamentales: el cliente, la estrategia y el personal, apoyados por los sistemas de la organización.
+    p.mt-4 El triángulo del servicio, propuesto en 1992 en el libro La excelencia en el servicio, representa gráficamente la filosofía de atención al cliente a través de tres componentes fundamentales: el cliente, la estrategia y el personal, apoyados por los sistemas de la organización.
 
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/TjY8T_FHlTE?si=UL6eRPY2tRdHiL-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -269,7 +269,7 @@
         figure
           img(src="@/assets/curso/tema2/img13.svg", alt="", style="width: 73px").m-auto
       .col-lg-11
-        p La siguiente figura ilustra la estructura del Triángulo del servicio, un modelo que resalta la importancia de la alineación entre tres componentes clave: estrategia, personas y sistemas.
+        p La siguiente figura ilustra la estructura del triángulo del servicio, un modelo que resalta la importancia de la alineación entre tres componentes clave: estrategia, personas y sistemas.
 
     .row.bg-t1-12
       .col-12
@@ -277,8 +277,8 @@
           .row.justify-content-center
             .col-lg-8
               .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 4.
-                span Esquema de un momento de verdad
+                h5 Figura 5.
+                span Triángulo del servicio
 
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img14.svg', alt='Diagrama del triángulo del servicio compuesto por cuatro elementos: estrategia, sistemas, personas y cliente, ubicados en forma triangular con el cliente al centro.', style="width: 818px").m-auto 
@@ -436,12 +436,12 @@
           li.d-flex
             i.fa-solid.fa-greater-than
             |
-            p.mb-0 WhatsApp.
+            p.mb-0 #[i WhatsApp].
 
           li.d-flex
             i.fa-solid.fa-greater-than
             |
-            p.mb-0 Redes sociales: Facebook, Twitter, Instagram, entre otras.
+            p.mb-0 Redes sociales: #[i Facebook, Twitter, Instagram], entre otras.
 
         p.mt-4.bg-t1-14.p-4 Cabe resaltar, que la tecnología ha tenido un gran avance al pasar de los años y actualmente los empresarios tienen diferentes formas de comunicarse con los clientes de una forma ágil, personalizada y oportuna.
 
@@ -460,7 +460,7 @@
 
       .col-lg-7
         .row.p-4.bg-t1-15
-          p Los clientes hacen parte del activo más importante de la empresa, pues es lo que les permite posicionarse en el mercado, contribuyendo notablemente en el crecimiento económico mediante la generación de ingresos, disminuye costos de marketing, debilita la competencia, aumenta la reputación y el buen nombre de la organización y, finalmente, contribuye al mejoramiento continuo de los procesos frente a los productos y/o servicios ofertados.
+          p Los clientes hacen parte del activo más importante de la empresa, pues es lo que les permite posicionarse en el mercado, contribuyendo notablemente en el crecimiento económico mediante la generación de ingresos, disminuye costos de #[i marketing], debilita la competencia, aumenta la reputación y el buen nombre de la organización y, finalmente, contribuye al mejoramiento continuo de los procesos frente a los productos y/o servicios ofertados.
 
           a.anexo2.mb-4.d-inline-flex(:href="obtenerLink('/downloads/Cliente-o-usuario.pdf')" target="_blank")
             .anexo2__icono
@@ -512,7 +512,7 @@
           .col
             h3.mb-0 Tipología de los clientes
 
-    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de marketing deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) debe ser basada en principios y valores éticos. Los clientes se clasifican en:
+    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) debe ser basada en principios y valores éticos. Los clientes se clasifican en:
 
     .row.bg-t1-16.mt-4
       .col-12
@@ -626,7 +626,7 @@
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-7.mb-4.mb-md-0
                     h4 Clientes potenciales
-                    p Son los individuos o empresas que se consideran pueden ser clientes en un futuro, para lo cual se desarrollan estrategias de marketing con el fin de ampliar el mercado objetivo.
+                    p Son los individuos o empresas que se consideran pueden ser clientes en un futuro, para lo cual se desarrollan estrategias de #[i marketing] con el fin de ampliar el mercado objetivo.
                     ul.lista-ul--color
                       li.d-flex
                         i.fa-solid.fa-greater-than

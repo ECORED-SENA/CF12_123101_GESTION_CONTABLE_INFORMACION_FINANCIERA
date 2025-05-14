@@ -322,7 +322,7 @@
                     img(src="@/assets/curso/tema3/img12.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Investigación de prospectos: ]
+                    p.mb-0 #[b Investigación de prospectos ]
                     p Para ello se debe conocer al cliente, su comportamiento y características con el fin de determinar el tiempo justo de respuesta, lo que conducirá a fidelizar y aumentar clientes.
                 hr.hr-t2.mt-auto
 
@@ -333,7 +333,7 @@
                     img(src="@/assets/curso/tema3/img13.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Envío de mensajes por el canal idóneo:]
+                    p.mb-0 #[b Envío de mensajes por el canal idóneo]
                     p De acuerdo con el perfil de cliente, se observa cuál es el canal de comunicación más adecuado para proporcionar la información.
                 hr.hr-t2.mt-auto
 
@@ -345,7 +345,7 @@
                     img(src="@/assets/curso/tema3/img14.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Difundir mensajes en periodos de descanso:]
+                    p.mb-0 #[b Difundir mensajes en periodos de descanso]
                     p Se debe buscar el tiempo propicio para dar respuesta, teniendo en cuenta las diversas actividades que realizan los clientes a diario.
                 hr.hr-t2.mt-auto
 
@@ -356,7 +356,7 @@
                     img(src="@/assets/curso/tema3/img15.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Adecuar la información a sus necesidades:]
+                    p.mb-0 #[b Adecuar la información a sus necesidades]
                     p Se trata de ser detallado y claro con la información que se suministra para anticiparse a los eventos y disminuir algún tipo de solicitud de los clientes.
                 hr.hr-t2.mt-auto
 
@@ -368,7 +368,7 @@
                     img(src="@/assets/curso/tema3/img16.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Más planificación y organización:]
+                    p.mb-0 #[b Más planificación y organización]
                     p Se requiere planificación y organización para atender los requerimientos de los clientes en el tiempo justo, dando respuesta y solución a los mismos.
                 hr.hr-t2.mt-auto
 
@@ -379,7 +379,7 @@
                     img(src="@/assets/curso/tema3/img17.png", alt="", style="width: 85px; margin-top:-20px")
                 .col-lg-10.d-flex.flex-column.justify-content-between
                   .contenido
-                    p.mb-0 #[b Seguimiento y control:]
+                    p.mb-0 #[b Seguimiento y control]
                     p Todo proceso se debe monitorear con el fin de generar acciones correctivas que contribuyan al mejoramiento continuo de la organización. Simplemente, lo que no se mide y controla, no funciona adecuadamente (WTS, 2019).
                 hr.hr-t2.mt-auto
 

@@ -143,7 +143,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/123101_CF12_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -356,7 +356,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Diana Milena Picon RIncon',
+          nombre: 'Diana Milena Picón Rincón',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -369,7 +369,7 @@ export default {
         },
         {
           nombre: 'Jorge Leonardo Camacho Pardo',
-          cargo: 'Desarrollo Front-End',
+          cargo: 'Desarrollo <em>Front-End</em>',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
