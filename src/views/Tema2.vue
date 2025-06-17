@@ -23,20 +23,20 @@
       .col-lg-4 
         .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
-          p.mb-2.mt-5 #[b Es toda acción que usted hace para motivar a un cliente]
+          p.mb-2.mt-5 #[b Es toda acción que usted hace para motivar a un cliente.]
           br
           p - Prieto, 2018.
 
       .col-lg-4.mt-lg-0.mt-4
         .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
-          p.mb-2.mt-4 #[b El servicio es un intangible que solo se conoce en su real valor cuando se utiliza. Es el conjunto de prestaciones que el cliente espera recibir, por el que paga y en relación con el precio, la imagen y la representación de la firma que lo presta]
+          p.mb-2.mt-4 #[b El servicio es un intangible que solo se conoce en su real valor cuando se utiliza. Es el conjunto de prestaciones que el cliente espera recibir, por el que paga y en relación con el precio, la imagen y la representación de la firma que lo presta.]
           span - Gustavo Posada Moreno, Prieto, 2018.
 
       .col-lg-4.mt-lg-0.mt-4
         .bloque-texto-c.p-4.higth-recuadros(data-aos="zoom-in")
           i.fas.fa-quote-right
-          p.mb-2.mt-4 #[b El servicio es la forma de satisfacer permanente y totalmente las necesidades, deseos, apetencias e inquietudes de un cliente]
+          p.mb-2.mt-4 #[b El servicio es la forma de satisfacer permanente y totalmente las necesidades, deseos, apetencias e inquietudes de un cliente.]
           br
           p - Cristhiam Camilo Prieto Téllez, Prieto, 2018.
 
@@ -119,7 +119,7 @@
             |
             p.mb-0 Visualizar las sensaciones y experiencias de los clientes.
 
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 1.
@@ -128,16 +128,20 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img5.svg', alt='Diagrama en cuatro pasos del proceso de atención al cliente: 1- Atender al cliente con amabilidad, 2- Aclarar la situación respondiendo sus dudas, 3- Satisfacer o exceder sus necesidades cumpliendo expectativas, y 4- Verificar la satisfacción final del cliente respecto al producto o servicio.', style="width: 1030px").m-auto 
 
+          figcaption.mt-4 Nota. Tomada de Prieto (2018)
+
     p.mt-4 A continuación, se presenta, como ejemplo, el ciclo del servicio de un restaurante.
 
-    .row.mt-4.justify-content-center
+    .row.mt-4.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 2.
           span Atención al cliente: ciclo del servicio
 
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img6.svg', alt='Diagrama circular sobre el ciclo del servicio en atención al cliente que incluye doce etapas: facilidad de estacionamiento, aspecto del establecimiento, recepción, asignación de mesa, atención y espera por la carta, toma de la orden, espera por el servicio, calidad del servicio, atención durante el servicio, espera por la cuenta, pago de la cuenta y despedida.', style="width: 1030px").m-auto 
+          img(src='@/assets/curso/tema2/img6.svg', alt='Diagrama circular sobre el ciclo del servicio en atención al cliente que incluye doce etapas: facilidad de estacionamiento, aspecto del establecimiento, recepción, asignación de mesa, atención y espera por la carta, toma de la orden, espera por el servicio, calidad del servicio, atención durante el servicio, espera por la cuenta, pago de la cuenta y despedida.', style="width: 1030px").m-auto
+
+          figcaption.mt-4 Nota. Tomada de Prieto (2018)
 
     .row.mb-2.ms-0.mt-4
       .col-auto.bg-c3(data-aos="fade-left")
@@ -281,9 +285,9 @@
                 span Triángulo del servicio
 
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/tema2/img14.svg', alt='Diagrama del triángulo del servicio compuesto por cuatro elementos: estrategia, sistemas, personas y cliente, ubicados en forma triangular con el cliente al centro.', style="width: 818px").m-auto 
+                img(src='@/assets/curso/tema2/img47.png', alt='Diagrama del triángulo del servicio compuesto por cuatro elementos: estrategia, sistemas, personas y cliente, ubicados en forma triangular con el cliente al centro.', style="width: 800px").m-auto 
               
-                figcaption.mt-4 Nota. Tomada de Prieto (2018)
+                figcaption.mt-2 Nota. Tomada de Prieto (2018)
 
 
     .row.mb-2.ms-0.mt-2
@@ -512,7 +516,7 @@
           .col
             h3.mb-0 Tipología de los clientes
 
-    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) debe ser basada en principios y valores éticos. Los clientes se clasifican en:
+    p.mt-4 En el mercado encontramos diferentes tipos de clientes que contribuyen a posicionar la empresa, de acuerdo con sus características, es importante implementar estrategias enfocadas a la satisfacción y fidelización del cliente, además de ser eficientes en el manejo de recursos; por lo anterior, las estrategias de #[i marketing] deben ser innovadoras, creativa. La actitud y disposición del cliente interno (colaboradores) deben ser basadas en principios y valores éticos. Los clientes se clasifican en:
 
     .row.bg-t1-16.mt-4
       .col-12
@@ -585,12 +589,12 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Complacidos:] Son los clientes que se encuentran satisfechos; por lo tanto, ha superado las expectativas. 
+                        p.mb-0 #[b Complacidos:] son los clientes que se encuentran satisfechos; por lo tanto, han superado las expectativas. 
 
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Satisfechos:] Son los clientes que adquieren el producto y/o servicio, cumplen con las expectativas.  
+                        p.mb-0 #[b Satisfechos:] son los clientes que adquieren el producto y/o servicio, cumplen con las expectativas.  
 
                       li.d-flex
                         i.fa-solid.fa-greater-than
@@ -608,7 +612,7 @@
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
-                        p.mb-0 #[b Altamente influyentes:] es el grado de convencimiento que ejerce algunos clientes en un individuo o grupo de personas, lo que hace que adquieran el producto y/o servicio. 
+                        p.mb-0 #[b Altamente influyentes:] es el grado de convencimiento que ejercen algunos clientes en un individuo o grupo de personas, lo que hace que adquieran el producto y/o servicio. 
                       li.d-flex
                         i.fa-solid.fa-greater-than
                         |
@@ -758,12 +762,12 @@
               li.d-flex
                 i.fa-solid.fa-greater-than
                 |
-                p.mb-0 #[b Expresión oral:] Hace referencia a la interacción verbal que existe entre dos individuos o grupos de personas, donde se comunican palabras o información.
+                p.mb-0 #[b Expresión oral:] hace referencia a la interacción verbal que existe entre dos individuos o grupos de personas, donde se comunican palabras o información.
 
               li.d-flex
                 i.fa-solid.fa-greater-than
                 |
-                p.mb-0 #[b Expresión escrita:] Hace énfasis a la comunicación que se presenta mediante documentos, estos pueden ser cartas, memorandos, informes, correos, entre otros.
+                p.mb-0 #[b Expresión escrita:] hace énfasis a la comunicación que se presenta mediante documentos, estos pueden ser cartas, memorandos, informes, correos, entre otros.
 
         
           

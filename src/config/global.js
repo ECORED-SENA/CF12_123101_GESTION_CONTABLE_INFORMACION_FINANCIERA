@@ -169,18 +169,10 @@ export default {
     {
       tema: 'Política de Atención al Cliente - <em>Pymerang</em>',
       referencia:
-        'Ugalde, R., A., (16 de septiembre de 2019) <em>Política de Atención al Cliente</em>. Pymerang.com',
+        'Ugalde, R., A., (16 de septiembre de 2019) <em>política de atención al cliente</em>. Pymerang.com',
       tipo: 'Página web',
       link:
         'https://pymerang.com/ventas-y-servicio/servicio-al-cliente/243-la-politica-de-atencion-al-cliente',
-    },
-    {
-      tema: 'Métricas e indicadores para la gestión de servicios ITL',
-      referencia:
-        'Fernández, P., J. L. (14 de septiembre de 2019). <em>Midiendo ITIL, métricas e indicadores para la gestión de servicios ITL</em>. Proactivanet.com',
-      tipo: 'Página web',
-      link:
-        'https://www.proactivanet.com/UserFiles/File/Noticias/Metricas%20ITIL.pdf',
     },
   ],
   glosario: [
@@ -215,7 +207,7 @@ export default {
     {
       termino: 'ISO',
       significado:
-        'International Organization for Standardization. organismo emisor de normas internacionales enfocada a la calidad, seguridad y eficiencia de productos y servicios.',
+        ' International Organization for Standardization. Organismo emisor de normas internacionales enfocadas a la calidad, seguridad y eficiencia de productos y servicios.',
     },
     {
       termino: 'Momentos de verdad',
@@ -263,7 +255,7 @@ export default {
     },
     {
       referencia:
-        'Da Silva, D. (2020). <em>Protocolo de atención y servicio al cliente: ¿qué es, por qué es importante para tu empresa, ¿cómo hacerlo y cuáles son sus ventajas?</em>',
+        'Da Silva, D. (2020). <i>Protocolo de atención al cliente: 4 beneficios para empresas</i>. ',
       link: 'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/',
     },
     {
@@ -290,7 +282,7 @@ export default {
     },
     {
       referencia:
-        'Pérez, O. (13 marzo de 2017). <em>5 reportes esenciales para mejorar el servicio a clientes</em>.',
+        'Pérez, O. (13 de marzo de 2017). <em>5 reportes esenciales para mejorar el servicio a clientes</em>.',
       link: '',
     },
     {
@@ -315,7 +307,7 @@ export default {
     },
     {
       referencia:
-        'WTS. (16 julio de 2019). <em>El tiempo de respuesta al cliente, vital en una venta. Way to Success.</em>',
+        'WTS. (16 de julio de 2019). <em>El tiempo de respuesta al cliente, vital en una venta. Way to Success.</em>',
       link:
         'https://www.wtseo.co/la-importancia-del-tiempo-respuesta-al-cliente/',
     },

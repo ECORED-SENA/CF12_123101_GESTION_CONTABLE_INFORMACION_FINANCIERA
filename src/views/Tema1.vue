@@ -43,7 +43,7 @@
 
     .row.mt-4.justify-content-center.align-items-center
       .col-lg-5
-        .p.p-4.bg-t1-2 Se debe entender que el servicio inicia desde que el cliente muestra interés por nuestros productos o servicios, desde este momento se requiere acompañamiento y asesoría permanente para que pueda tomar decisiones acertadas de compra que en últimas se verán reflejadas en la satisfacción del servicio. Finalmente, cuando el cliente haya obtenido el producto o servicio la empresa debe continuar con acciones relacionadas con las garantías, instalaciones, mantenimientos y actividades adicionales que generen confianza y seguridad.
+        .p.p-4.bg-t1-2 Se debe entender que el servicio inicia desde que el cliente muestra interés por nuestros productos o servicios, desde este momento se requiere acompañamiento y asesoría permanente para que pueda tomar decisiones acertadas de compra que en últimas se verán reflejadas en la satisfacción del servicio. Finalmente, cuando el cliente haya obtenido el producto o servicio, la empresa debe continuar con acciones relacionadas con las garantías, instalaciones, mantenimientos y actividades adicionales que generen confianza y seguridad.
 
       .col-lg-7
         .row.align-items-center.justify-content-center
@@ -55,7 +55,7 @@
             .figure.d-none.d-lg-block
               img(src="@/assets/curso/tema1/img5.svg", alt="", style="width: 85px")
 
-            p.mt-4.mt-lg-0 En tal sentido, es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que conlleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
+            p.mt-4.mt-lg-0 En tal sentido, es indispensable tener en cuenta las generalidades e importancia del contexto de la organización y su entorno; aunado a ello, las características, deseos y expectativas de los clientes, pues de esta manera se implementarán estrategias que lleven a la excelencia del servicio en sus tres etapas: antes, durante y después.
 
     .row.mt-4
       .bloque-texto-g.bloque-texto-g--inverso.bg-t1-3.p-3.p-sm-4.p-md-5(data-aos="fade-down")
@@ -75,8 +75,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1(style="color: #FD9826 !important") Norma ISO 9001/2015
-              p.text-small.mb-0.text-white Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso.
+              h4.mb-1(style="color: #FD9826 !important") Toda la actualidad sobre la norma ISO 9001/2015
+              p.mb-0.text-white Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente recurso.
     
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.nueva-iso-9001-2015.com/" target="_blank")

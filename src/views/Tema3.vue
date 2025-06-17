@@ -52,8 +52,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1(style="color: #FD9826 !important") Norma internacional
-              p.text-small.mb-0.text-white Para ampliar los lineamientos aplicables, es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso.
+              h4.mb-1(style="color: #FD9826 !important") Ley Estatutaria 1581 de 2012
+              p.mb-0.text-white Para ampliar los lineamientos aplicables, es importante revisar la norma vigente; para ello se recomienda explorar el siguiente recurso.
     
             .col-sm-auto
               a.boton.color-acento-botones(href="http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html" target="_blank")
@@ -233,7 +233,7 @@
             p Cabe resaltar que los colaboradores deben conocer muy bien cada uno de sus procesos para dar respuesta clara y concisa a las necesidades planteadas.
           
 
-          p(numero="2" titulo="Listado de casos pendientes") Se requiere seguimiento y monitoreo constante a los casos presentados con los clientes, teniendo en cuenta responder, oportunamente, dando una solución acorde a la necesidad con el fin de lograr la satisfacción del cliente y, por ende, su fidelización; no hay que olvidar que un caso no gestionado adecuadamente, genera malestar en el cliente, pérdida de este y disminución en los ingresos.
+          p(numero="2" titulo="Listado de casos pendientes") Se requiere seguimiento y monitoreo constante a los casos presentados con los clientes, teniendo en cuenta responder oportunamente, dando una solución acorde a la necesidad con el fin de lograr la satisfacción del cliente y, por ende, su fidelización; no hay que olvidar que un caso no gestionado adecuadamente, genera malestar en el cliente, pérdida de este y disminución en los ingresos.
 
           p(numero="3" titulo="Tiempo de respuesta") Deben implementarse indicadores que permitan monitorear la gestión de los casos por parte de los colaboradores; por ello, se requiere que se establezca un tiempo prudente para la atención de estos, cabe resaltar que se deben tener en cuenta el tipo de caso, sus características y el tiempo promedio de respuesta.
 
