@@ -167,7 +167,7 @@ export default {
         'https://www.google.com.co/books/edition/Gerencia_del_servicio/N8K4DQAAQBAJ?hl=es-419&gbpv=1&pg=PA2&printsec=frontcover',
     },
     {
-      tema: 'Política de Atención al Cliente - <em>Pymerang</em>',
+      tema: 'Política de atención al cliente - <em>Pymerang</em>',
       referencia:
         'Ugalde, R., A., (16 de septiembre de 2019) <em>política de atención al cliente</em>. Pymerang.com',
       tipo: 'Página web',
