@@ -12,7 +12,7 @@
     right: 83%
     width: 95px
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
     top: 35%
     right: 84%
@@ -23,6 +23,12 @@
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
   
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -32,7 +38,7 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal-mv.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 350px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: black !important

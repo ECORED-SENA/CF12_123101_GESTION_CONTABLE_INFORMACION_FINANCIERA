@@ -261,8 +261,7 @@ export default {
     {
       referencia:
         'Fórmate. (16 de agosto de 2017). 5 consejos y técnicas de comunicación con el cliente.',
-      link:
-        'https://www.formate.es/blog/consejos/5-consejos-y-tecnicas-de-comunicacion-con-el-cliente/',
+      link: '',
     },
     {
       referencia:

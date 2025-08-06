@@ -23,8 +23,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar los conocimientos clave sobre políticas, normas, técnicas y procedimientos relacionados con el servicio al cliente en el contexto empresarial, según la normativa vigente y las buenas prácticas organizacionales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -62,7 +62,7 @@ export default {
         {
           id: 2,
           texto: '¿Qué caracteriza a los portafolios digitales?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -93,7 +93,7 @@ export default {
           id: 3,
           texto:
             '¿Cuál de las siguientes afirmaciones describe un momento de verdad?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -125,7 +125,7 @@ export default {
           id: 4,
           texto:
             '¿En el triángulo del servicio, ¿qué representa “la estrategia”?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -157,7 +157,7 @@ export default {
           id: 5,
           texto:
             '¿Qué tipo de cliente ha dejado de adquirir productos o servicios de la empresa?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -219,7 +219,7 @@ export default {
           id: 7,
           texto:
             '¿Cuál de las siguientes NO es una regla básica de etiqueta en el entorno empresarial?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -250,7 +250,7 @@ export default {
           id: 8,
           texto:
             '¿Qué norma regula el tratamiento de datos personales en Colombia?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -281,7 +281,7 @@ export default {
           id: 9,
           texto:
             '¿Qué tipo de solicitud representa una inconformidad presentada por un cliente?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -312,7 +312,7 @@ export default {
           id: 10,
           texto:
             '¿Qué se debe hacer para dar una respuesta efectiva a una solicitud del cliente?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -364,7 +364,7 @@ export default {
           id: 12,
           texto:
             'El servicio al cliente inicia desde el primer contacto del cliente con la empresa.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -385,7 +385,7 @@ export default {
           id: 13,
           texto:
             'Los clientes altamente influyentes pueden incidir en la decisión de compra de otros.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -406,7 +406,7 @@ export default {
           id: 14,
           texto:
             'El protocolo empresarial está conformado únicamente por normas legales.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -427,7 +427,7 @@ export default {
           id: 15,
           texto:
             'Las normas de cortesía mejoran la percepción del cliente hacia la empresa.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
